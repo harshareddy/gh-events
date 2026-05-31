@@ -10,7 +10,6 @@ on:
       - 'dev-*'
       - 'feat/**'
     paths-ignore:
-      - 'README.md'
       - '.github/workflows/*'
 jobs:
   deploy:
